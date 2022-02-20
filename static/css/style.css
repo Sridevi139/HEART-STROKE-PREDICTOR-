@@ -1,0 +1,13 @@
+body{
+        background-image: url('../images/heartbg.jpg') ; 
+        /* background-image: linear-gradient(to bottom right, rgb(135, 184, 78), rgb(60, 112, 30)); */
+        background-position: center;
+        background-position-y: 8%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height:100%;
+
+    }
